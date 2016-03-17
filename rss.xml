@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[curiousbydesign]]></title>
         <description><![CDATA[curiousbydesign]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/curiousbydesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 02:32:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 02:41:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/curiousbydesign/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Its all connected. Isn't it?</p>]]></description>
-            <link>undefined465e598f-2b5a-4ca1-91aa-95004290481a/index.html</link>
+            <link>https://thegrid.ai/curiousbydesign/465e598f-2b5a-4ca1-91aa-95004290481a/index.html</link>
             <guid isPermaLink="false">465e598f-2b5a-4ca1-91aa-95004290481a</guid>
-            <pubDate>Thu, 17 Mar 2016 02:32:29 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2016 02:41:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
